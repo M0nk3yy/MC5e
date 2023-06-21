@@ -1,4 +1,8 @@
-## 11.0.2
+## 11.0.3
+
+Added LICENSE, README, CHANGELOG to download
+
+### 11.0.2
 
 Fixed JSON error
 
