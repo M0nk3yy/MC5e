@@ -1,14 +1,4 @@
-## 11.0.3
-
-Added LICENSE, README, CHANGELOG to download
-
-### 11.0.2
-
-Fixed JSON error
-
-### 11.0.1
-
-Minor pre-release edits
+# Changelog
 
 ### 11.0.0
 
