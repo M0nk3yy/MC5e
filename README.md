@@ -11,4 +11,3 @@ The majority of items are created as basic "Loot" type items, with some minor ex
 ![image](https://github.com/M0nk3yy/MC5e/assets/66137312/e66c3ccb-c786-4e9a-ab30-dac3c97b8090)
 
 If you notice any issues, spelling mistakes, or have any further suggestions you can either log them on GitHub, or contact @Monkeyy on the FoundryVTT Discord server.
-
