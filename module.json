@@ -1,60 +1,56 @@
 {
-  "id": "MC5e",
-  "title": "Material Components DND5e",
-  "version": "11.0.0",
-  "compatibility": {
-    "minimum": "11",
-    "verified": "11"
-  },
-  "description": "A mod to add all the costed material components required for spells in D&amp;D 5e.",
-  "authors": [
-    {
-      "name": "Monkeyy",
-      "flags": {}
-    }
-  ],
-  "relationships": {
-    "systems": [
-      {
-        "id": "dnd5e",
-        "type": "system",
-        "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
-        "compatibility": {
-          "minimum": "2.2.1"
-        }
-      }
-    ]
-  },
-  "url": "https://github.com/M0nk3yy/MC5e",
-  "packs": [
-    {
-      "label": "Material Components",
-      "name": "MC5e",
-      "type": "Item",
-      "system": "dnd5e",
-      "path": "packs/MC5e",
-	  "banner": "modules/MC5e/images/MC5e-Compendium-Banner.webp",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    }
-  ],
-  "changelog": "https://github.com/M0nk3yy/MC5e/blob/main/CHANGELOG.md",
-  "manifest": "https://github.com/M0nk3yy/MC5e/releases/latest/download/module.json",
-  "download": "https://github.com/M0nk3yy/MC5e/releases/download/11.0.0/module.zip",
-  "license": "https://github.com/M0nk3yy/MC5e/blob/main/LICENSE",
-  "readme": "https://github.com/M0nk3yy/MC5e/blob/main/README.md",
-  "bugs": "https://github.com/M0nk3yy/MC5e/issues",
-  "media": [
-        {
-            "type": "cover",
-            "url": "https://raw.githubusercontent.com/M0nk3yy/MC5e/main/images/MC5e-Bazaar-Banner.webp"
-        },
-        {
-            "type": "setup",
-            "url": "modules/MC5e/images/MC5e-Setup-Banner.webp"
-        }
-    ]
+	"id": "MC5e",
+	"title": "Material Components",
+	"version": "11.0.1",
+	"compatibility": {
+		"minimum": "11",
+		"verified": "11"
+	},
+	"description": "A mod to add all the costed material components required for spells in D&amp;D 5e.",
+	"authors": [{
+		"name": "Monkeyy",
+		"discord": "m0nkeyy",
+		"flags": {
+			"ko-fi": "M0nk3yy"
+		}
+	}],
+	"relationships": {
+		"systems": [{
+			"id": "dnd5e",
+			"type": "system",
+			"manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
+			"compatibility": {
+				"minimum": "2.2.1"
+			}
+		}]
+	},
+	"url": "https://github.com/M0nk3yy/MC5e",
+	"packs": [{
+		"label": "Material Components",
+		"name": "MC5e",
+		"type": "Item",
+		"system": "dnd5e",
+		"path": "packs/MC5e",
+		"banner": "modules/MC5e/images/MC5e-Compendium-Banner.webp",
+		"ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+		},
+		"flags": {}
+	}],
+	"changelog": "https://github.com/M0nk3yy/MC5e/blob/main/CHANGELOG.md",
+	"manifest": "https://github.com/M0nk3yy/MC5e/releases/latest/download/module.json",
+	"download": "https://github.com/M0nk3yy/MC5e/releases/download/11.0.1/module.zip",
+	"license": "https://github.com/M0nk3yy/MC5e/blob/main/LICENSE",
+	"readme": "https://github.com/M0nk3yy/MC5e/blob/main/README.md",
+	"bugs": "https://github.com/M0nk3yy/MC5e/issues",
+	"media": [{
+			"type": "cover",
+			"url": "https://raw.githubusercontent.com/M0nk3yy/MC5e/main/images/MC5e-Bazaar-Banner.webp"
+		},
+		{
+			"type": "setup",
+			"url": "modules/MC5e/images/MC5e-Setup-Banner.webp"
+		}
+	]
 }
