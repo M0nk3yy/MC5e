@@ -3,9 +3,9 @@
 
 # Material Components for D&D5e
 
-This is a simple module that adds a `Material Components` compendium. This compendium contains pre-made material spell components for all spells that have a costed component. It does not (yet) contain consumed components that do not have an associated gold cost.
+This is a simple module that adds a `Material Components` compendium. This compendium contains pre-made material spell components for all spells that have an associated gold cost. 
 
-The majority of items are created as basic "Loot" type items, with some minor exceptions such as jewellery which have been made as equippable trinkets.
+The majority of items are created as basic "Loot" type items, with some minor exceptions such as jewellery which have been made as equippable trinkets. The majority of items do not have text descriptions or weight values. A sample screenshot of some of the items is shown below.
 
 ![image](https://github.com/M0nk3yy/MC5e/assets/66137312/61aa0db7-f87d-46ad-a2af-311164e2eab5)
 
