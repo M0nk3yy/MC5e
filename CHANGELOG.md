@@ -1,5 +1,9 @@
 # Changelog
 
+### 11.1.3
+
+Fixed yet more module.json errors
+
 ### 11.1.2
 
 Fixed missing comma in module.json
