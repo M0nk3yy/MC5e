@@ -1,5 +1,9 @@
 # Changelog
 
+### 11.1.1
+
+Fixed module.json pointing to wrong version
+
 ### 11.1.0
 
 - Added v10 support!
