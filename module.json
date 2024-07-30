@@ -3,11 +3,11 @@
 	"title": "Material Components",
 	"version": "12.0.0",
 	"compatibility": {
-		"minimum": "10",
+		"minimum": "12",
 		"verified": "12",
 		"maximum": "12"
 	},
-	"description": "A compendium of all the material components with a gold cost required for spells in DND 5e.",
+	"description": "A compendium of all the material components with a gold cost required for spells in D&D 5e.",
 	"authors": [{
 		"name": "Monkeyy",
 		"discord": "m0nkeyy"
