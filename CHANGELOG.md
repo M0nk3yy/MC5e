@@ -3,7 +3,7 @@
 ### 12.0.0
 
 - Updated compatibility to v12
-- Added "Charcoal, incense, and herbs (10 gp)" item for the Find Familiar spell
+- Added "Charcoal, Incense, and Herbs (10 gp)" item for the Find Familiar spell
 
 ### 11.1.3
 
