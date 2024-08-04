@@ -1,5 +1,10 @@
 # Changelog
 
+### 12.0.0
+
+- Updated compatibility to v12
+- Added "Charcoal, Incense, and Herbs (10 gp)" item for the Find Familiar spell
+
 ### 11.1.3
 
 Fixed yet more module.json errors
