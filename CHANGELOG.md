@@ -1,5 +1,9 @@
 # Changelog
 
+### 12.4.0
+
+Added compatibility for DnD5e 4.0.0
+
 ### 12.0.0
 
 - Updated compatibility to v12
