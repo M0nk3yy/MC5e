@@ -1,5 +1,10 @@
 # Changelog
 
+### 12.4.1
+
+- Small change to improve handling of item `Source` field and appearance in the Compendium Browser.
+- Fixed Diamonds costing "25,0000" gp.
+
 ### 12.4.0
 
 Added compatibility for DnD5e 4.0.0
