@@ -5,7 +5,7 @@
 	"compatibility": {
 		"minimum": "12",
 		"verified": "12",
-		"maximum": "12"
+		"maximum": "13"
 	},
 	"description": "A compendium of all the material components with a gold cost required for spells in D&D 5e.",
 	"authors": [{
