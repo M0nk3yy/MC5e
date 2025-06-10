@@ -1,10 +1,10 @@
 {
 	"id": "MC5e",
 	"title": "Material Components",
-	"version": "13.0.0",
+	"version": "13.0.1",
 	"compatibility": {
-		"minimum": "12",
-		"verified": "12",
+		"minimum": "13",
+		"verified": "13",
 		"maximum": "13"
 	},
 	"description": "A compendium of all the material components with a gold cost required for spells in D&D 5e.",
@@ -17,7 +17,7 @@
 			"id": "dnd5e",
 			"type": "system",
 			"compatibility": {
-				"minimum": "4.0.0"
+				"minimum": "5.0.0"
 			}
 		}]
 	},
@@ -36,7 +36,7 @@
 	}],
 	"changelog": "https://github.com/M0nk3yy/MC5e/blob/main/CHANGELOG.md",
 	"manifest": "https://github.com/M0nk3yy/MC5e/releases/latest/download/module.json",
-	"download": "https://github.com/M0nk3yy/MC5e/releases/download/13.0.0/module.zip",
+	"download": "https://github.com/M0nk3yy/MC5e/releases/download/13.0.1/module.zip",
 	"license": "https://github.com/M0nk3yy/MC5e/blob/main/LICENSE",
 	"readme": "https://github.com/M0nk3yy/MC5e/tree/main",
 	"bugs": "https://github.com/M0nk3yy/MC5e/issues",
