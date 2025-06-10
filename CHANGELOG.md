@@ -1,5 +1,9 @@
 # Changelog
 
+### 13.0.0
+
+Added v13 support.
+
 ### 12.4.1
 
 - Small change to improve handling of item `Source` field and appearance in the Compendium Browser.
